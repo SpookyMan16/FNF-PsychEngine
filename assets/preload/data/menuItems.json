@@ -1,0 +1,13 @@
+{
+    "menuThings":{
+        "storymode":{
+            "state":"StoryMenuState",
+            "texture":"story_mode",
+        }
+    }
+        
+        
+
+        
+    
+}
